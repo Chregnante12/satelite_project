@@ -24,3 +24,5 @@ After forking and setting up collaborators, follow these steps:
    git clone https://github.com/your-username/project-name.git
    ```
 
+# satelite_project
+Testing the lab1 project
